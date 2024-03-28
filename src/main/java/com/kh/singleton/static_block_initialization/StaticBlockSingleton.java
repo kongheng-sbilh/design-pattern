@@ -1,4 +1,4 @@
-package com.kh.singletone.static_block_initialization;
+package com.kh.singleton.static_block_initialization;
 
 public class StaticBlockSingleton {
 

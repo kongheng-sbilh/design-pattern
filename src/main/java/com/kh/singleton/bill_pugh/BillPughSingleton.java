@@ -1,4 +1,4 @@
-package com.kh.singletone.bill_pugh;
+package com.kh.singleton.bill_pugh;
 
 public class BillPughSingleton {
 

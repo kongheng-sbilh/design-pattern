@@ -1,4 +1,4 @@
-package com.kh.singletone.eager_initialization;
+package com.kh.singleton.eager_initialization;
 
 public class EagerInitializedSingleton {
 

@@ -1,4 +1,4 @@
-package com.kh.singletone.thread_safe;
+package com.kh.singleton.thread_safe;
 
 public class ThreadSafeSingleton {
 

@@ -1,4 +1,4 @@
-package com.kh.singletone.lazy_initialization;
+package com.kh.singleton.lazy_initialization;
 
 public class LazyInitializedSingleton {
 
